@@ -1,4 +1,4 @@
 {
-  url    = "https://github.com/commercialhaskell/all-cabal-hashes/archive/1cffa6859368bfc497187e0279ffed4227cdcf07.tar.gz";
-  sha256 = "0f785zs7qv8b2fpq0h4knyqypd0xrkf5lkm4lirz88z0051v1891";
+  url    = "https://github.com/commercialhaskell/all-cabal-hashes/archive/07dd30308f60b6661d19ff15372f02184edfc8c0.tar.gz";
+  sha256 = "1mzajsk4j20py01kppap8ll38q27zar6ipca3rp6phy2ba6nf5ln";
 }
